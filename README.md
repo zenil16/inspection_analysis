@@ -26,5 +26,5 @@ The script reads data from `ds.csv`. Ensure the dataset is located in the root d
 ## Running the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<zenil16>/my-inspection-analysis-project.git
-   cd my-inspection-analysis-project
+   git clone https://github.com/<zenil16>/inspection_analysis.git
+   cd inspection_analysis
